@@ -18,7 +18,6 @@ Accept-Encoding: gzip, deflate
 Accept-Language: en-US,en;q=0.9
 Cookie: _grpcui_csrf_token=IyKbC7ldP2vpKKptynefY3SJI_E8OjwcjcAuQZ4NHLQ
 Connection: close
-API_KEY: IyKbC7ldP2vpKKptynefY3SJI_E8OjwcjcAuQZ4NHLQ
 
 {"metadata":[{"name":"token","value":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWRtaW4iLCJleHAiOjE2OTE3NDY2NDJ9.-REt8EzuyA7kSGoqL-ycZA5xNHp_fqsSb-8QHXIQEOw"}],"data":[{"id":"184"}]}
 
