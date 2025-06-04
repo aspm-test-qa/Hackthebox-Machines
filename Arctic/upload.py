@@ -13,7 +13,7 @@
 # Usage: ./exploit.py <target ip> <target port> [/path/to/coldfusion] </path/to/payload.jsp>
 # Example: ./exploit.py 127.0.0.1 8500 /home/arrexel/shell.jsp
 
-#Code Source: https://forum.hackthebox.com/t/python-coldfusion-8-0-1-arbitrary-file-upload/108
+#Code Source: https://forum.hackthebox.com/t/python-coldfusion-8-0-1-arbitrary-file-upload/108 test
 
 import requests, sys
 
